@@ -1,2 +1,7 @@
-# ObjectMotionPrediction_Python_mini-proj
-Object detection using OpenCV and predicting trajectory of object using KalmanFilter Algorithm
+# ObjectMotionPrediction
+## Description
+Object detection using OpenCV and predicting trajectory of object using KalmanFilter Algorithm.
+
+Currently it simply detects objects in respective hue range (yellow) and applies the motion prediction algorithm on it.
+
+![](Assets/motionPrediction.gif)
